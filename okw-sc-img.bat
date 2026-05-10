@@ -1,5 +1,5 @@
 @echo off
-cd /d "%~dp0"
+cd /d "%USERPROFILE%\project\okw-sc-img"
 
 set YYYY=%date:~0,4%
 set MM=%date:~5,2%
