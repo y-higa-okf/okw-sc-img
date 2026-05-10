@@ -1,5 +1,5 @@
 @echo off
-cd /d C:\Users\okw-y-higa\project\okw-sc-img
+cd /d "%~dp0"
 
 set YYYY=%date:~0,4%
 set MM=%date:~5,2%
