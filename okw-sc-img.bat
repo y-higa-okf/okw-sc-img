@@ -1,5 +1,5 @@
 @echo off
-cd /d "%USERPROFILE%\project\okw-sc-img"
+cd /d "%USERPROFILE%\project\RPA-python\okw-sc-img"
 
 set YYYY=%date:~0,4%
 set MM=%date:~5,2%
